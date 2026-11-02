@@ -18,4 +18,4 @@
 - 官方新聞稿（Energy Connects 轉載）、Clay 2026-09-11 聲明，見導讀來源清單
 
 ## 狀態
-僅本機完成，未發布、未建 repo。
+已發布（2026-11-02）：https://lushinshang.github.io/altman-adipec-2026/（repo lushinshang/altman-adipec-2026，公開）。
